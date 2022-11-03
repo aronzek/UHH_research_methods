@@ -1,2 +1,4 @@
-# UHH_research_methods
-Research methods class hw
+# UHH research methods
+Research methods lecture homework
+## Team
+
