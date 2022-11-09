@@ -6,3 +6,6 @@ Research methods lecture homework
 ## Tasks
 
 ### Assignment #2 - Empirical Studies & EDA
+### Grade : TBA
+### Assignment #3 - Multivariate EDA & Testing Procedures
+### Grade : TBA
